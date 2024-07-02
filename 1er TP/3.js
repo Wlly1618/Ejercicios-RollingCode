@@ -1,0 +1,1 @@
+document.write(`<h1> ${3 + 5} </h1>`)
