@@ -1,5 +1,5 @@
 # Ejercicios de RollingCode 🚀
-Aqui estaran todos los ejercicios que ire desarrollando en el modulo 2
+Aqui estaran todos los ejercicios que ire desarrollando en el modulo 2 :D
 
 ## Instalación ⚙️
 Puedes clonar el repositorio
@@ -8,4 +8,4 @@ Puedes clonar el repositorio
 
 ## Autor👨‍💻
 
-- me [github](https://github.com/Wlly1618)
+- Yo [github](https://github.com/Wlly1618)
