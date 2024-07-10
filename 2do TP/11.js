@@ -1,0 +1,15 @@
+const person1 = prompt("Ingrese Nombre:")
+const n1 = parseInt(prompt("Ingrese Edad"))
+const person2 = prompt("Ingrese Nombre:")
+const n2 = parseInt(prompt("Ingrese Edad"))
+const person3 = prompt("Ingrese Nombre:")
+const n3 = parseInt(prompt("Ingrese Edad"))
+
+const upper = Math.max(n1, n2, n3)
+
+if (upper == n1)
+  document.write(`El mayor es: ${person1}`)
+else if (upper == n2)
+  document.write(`El mayor es: ${person2}`)
+else (upper == n3)
+  document.write(`El mayor es: ${person3}`)

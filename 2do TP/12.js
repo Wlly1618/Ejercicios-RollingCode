@@ -1,0 +1,1 @@
+document.write(`El numero random: ${ Math.floor(Math.random() * 98) + 1 }`)
